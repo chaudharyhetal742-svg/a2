@@ -1,0 +1,16 @@
+{
+  "name": "HorologyCraft | Haute Horlogerie",
+  "short_name": "HorologyCraft",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0C10",
+  "theme_color": "#C5A059",
+  "description": "Independent Swiss Haute Horlogerie, flying tourbillons, hand-beveled bridges, and chronometric calibres.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
